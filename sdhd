@@ -11,10 +11,10 @@
 "stwo": "China,HD,https://yypull.gdsth.com/live/stream-2412304.m3u8?auth_key=1673123771-0-0-a3de5166097d3a1cd1b8eabb4427a715",
 "sthree": "China,SD,https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1673123771-0-0-96f2192ec52511b95fe755dc76c52078",
 "sfour": "Soco,FHD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=e5208643e3d690212c2508b82a375145&txTime=63b9d89d",
-"sdone": "Soco,SD,",
+"sdone": "Soco,SD,https://sports01.livnvess.com/live/stream-147801.m3u8",
 "sdtwo": "Bein,FHD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
 "five": "Bein,SD,",
-"six": "Soco,HD,"
+"six": "Soco,HD,https://sports01.livnvess.com/live/stream-167414.m3u8"
 },
 {
 "leaguename": " Serie A ",
