@@ -59,13 +59,13 @@
 "awayteamImg": "https://mygoaltv.xyz//team/chelsea.png",
 "awayTname": "Chelsea",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
-"six": "China,SD,"
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2",
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8", 
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1673198412-0-0-35cfae3e2a252ab1f260de0201d4313d",
+"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=146bee20d05178e4e8c8c3fd5e2ccfdb&txTime=63bb0eb2",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"six": "China,SD,https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1673198412-0-0-89b882bd3a4272f2e28eaa97b1e12977"
 },
 {
 "leaguename": " Serie A ",
@@ -76,13 +76,13 @@
 "awayteamImg": "https://mygoaltv.xyz//team/napoli.png",
 "awayTname": "Napoli",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=04b2f5d8da4ec4928b79072083720632&txTime=63bb0eee",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673198532-0-0-3d863e6f7f92c0a3fb36d0c55f8bd2ac",
+"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=04b2f5d8da4ec4928b79072083720632&txTime=63bb0eee",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-100684.m3u8?txSecret=04b2f5d8da4ec4928b79072083720632&txTime=63bb0eee",
 "five": "Bein,SD,",
-"six": "China,SD,"
+"six": "China,SD,https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198532-0-0-7bdc56c606f5079787569b2d1db24448"
 },
 {
 "leaguename": " La Liga ",
@@ -93,13 +93,13 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Getafe.png",
 "awayTname": "Getafe",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
-"six": "China,SD,"
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=801f5018d0cc2209921b2092fcde984c&txTime=63bb0eee",
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8", 
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1673203632-0-0-b66a88ce9be8bccd33eba301b26da2d6",
+"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=801f5018d0cc2209921b2092fcde984c&txTime=63bb0eee",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=801f5018d0cc2209921b2092fcde984c&txTime=63bb0eee",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
+"six": "China,SD,https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1673203632-0-0-c19f0f7f4d7de30e71f9f7ef482778f8"
 },
 {
 "leaguename": " Serie A ",
@@ -112,28 +112,11 @@
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1673198592-0-0-eda1292c6f04af6cc7b698805b2d0014",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
 "five": "Bein,SD,",
-"six": "China,SD,"
-},
-{
-"leaguename": " Cup France ",
-"hometeamImg": "https://mygoaltv.xyz//team/lille.png",
-"homeTname": "Lille",
-"time": "02:15 AM",
-"day": "2023-01-08",
-"awayteamImg": "https://mygoaltv.xyz//team/Troyes.gif",
-"awayTname": "Troyes",
-"golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
-"six": "China,SD,"
+"six": "China,SD,https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1673198592-0-0-b90f0cc81937f953d839d3519258fd0f"
 },
 {
 "leaguename": " La Liga ",
@@ -144,12 +127,12 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Barcelona.png",
 "awayTname": "Barcelona",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ac7e2ac7b872020ee67a3b1e7d6c90fc&txTime=63bb0f66",
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8", 
+"sfour": "China,HD,https://yytcpull.gdsth.com/live/stream-4569315.m3u8?txSecret=cf8168078654c107ea5d6d80f3957678&txTime=63bbf95c",
+"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ac7e2ac7b872020ee67a3b1e7d6c90fc&txTime=63bb0f66",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ac7e2ac7b872020ee67a3b1e7d6c90fc&txTime=63bb0f66",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8",
 "six": "China,SD,"
 }
 ]
