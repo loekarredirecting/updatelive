@@ -8,13 +8,13 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "awayTname": "Real Sociedad",
 "golink": "Auto,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"stwo": "China,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"sthree": "China,SD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"sfour": "Soco,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"sdone": "Soco,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sthree":"Bein,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8", 
+"sfour": "China,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8",
 "sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"five": "Bein,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8",
-"six": "Bein,SD,https://sports01.livnvess.com/live/stream-167414.m3u8"
+"five": "Bein,SD,https://sports01.livnvess.com/live/stream-167414.m3u8"
+"six": "China,SD,https://sports01.livnvess.com/live/stream-167414.m3u8",
 },
 {
 "leaguename": " FA Cup ",
