@@ -7,14 +7,14 @@
 "day": "2023-01-08",
 "awayteamImg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "awayTname": "Real Sociedad",
-"golink": "Auto,HD,",
-"stwo": "Auto,HD,",
-"sthree": "Auto,HD,",
-"sfour": "Auto,HD,",
-"sdone": "Auto,HD,",
-"sdtwo": "Auto,HD,",
-"five": "Auto,HD,",
-"six": "Auto,HD,"
+"golink": "Auto,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"stwo": "China,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sthree": "China,SD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sfour": "Soco,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sdone": "Soco,HD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"five": "Bein,FHD,https://sports01.livnvess.com/live/stream-167414.m3u8",
+"six": "Bein,SD,https://sports01.livnvess.com/live/stream-167414.m3u8"
 },
 {
 "leaguename": " FA Cup ",
