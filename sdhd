@@ -24,14 +24,14 @@
 "day": "2023-01-10",
 "awayteamImg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "awayTname": "Leicester City",
-"golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
-"six": "China,SD,"
+"golink": "Auto,FHD,https://lb.buy-global.store/live/lb555/bp1-360.m3u8",
+"stwo": "Soco,HD,https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1673398679-0-0-22122cea86ac1dd00666381ea60c78c4",
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8", 
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673388732-0-0-68f95e98f0290dad79257484143e7f52",
+"sdone": "Soco,FHD,https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1673398679-0-0-22122cea86ac1dd00666381ea60c78c4",
+"sdtwo": "Soco,SD,https://pullalilive.livnvess.com/live/stream-102933.m3u8?auth_key=1673398679-0-0-22122cea86ac1dd00666381ea60c78c4",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8",
+"six": "China,SD,https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1673388732-0-0-ee139f7d9c5b04df20d7ce19513e2616"
 },
 {
 "leaguename": " Serie A ",
@@ -42,12 +42,12 @@
 "awayteamImg": "https://mygoaltv.xyz//team/parma.png",
 "awayTname": "Parma",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1673398619-0-0-365f72c98bfc49c7a6e87eda7f8c31ed",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1673388792-0-0-c82bac1f8ef3bf4eca11762ae520ee47",
+"sdone": "Soco,FHD,https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1673398619-0-0-365f72c98bfc49c7a6e87eda7f8c31ed",
+"sdtwo": "Soco,SD,https://pullalilive.livnvess.com/live/stream-190631.m3u8?auth_key=1673398619-0-0-365f72c98bfc49c7a6e87eda7f8c31ed",
 "five": "Bein,SD,",
-"six": "China,SD,"
+"six": "China,SD,https://yypull.gdsth.com/live/stream-112366_ld.m3u8?auth_key=1673388792-0-0-5d9fc80a6e3c386d66a0a3068463726f"
 }
 ]
