@@ -1,22 +1,4 @@
 [
-
-{
-"leaguename": " Ligue 1 ",
-"hometeamImg": "https://mygoaltv.xyz//team/Auxerre.gif",
-"homeTname": "Auxerre",
-"time": "12:30 AM",
-"day": "2023-01-12",
-"awayteamImg": "https://mygoaltv.xyz//team/Toulouse.png",
-"awayTname": "Toulouse",
-"golink": "Auto,HD,",
-"stwo": "Auto,HD,",
-"sthree": "Auto,HD,",
-"sfour": "Auto,HD,",
-"sdone": "Auto,HD,",
-"sdtwo": "Auto,HD,",
-"five": "Auto,HD,",
-"six": "Auto,HD,"
-},
 {
 "leaguename": " Super Cup ",
 "hometeamImg": "https://mygoaltv.xyz//team/real-madrid.png",
