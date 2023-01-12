@@ -26,11 +26,11 @@
 "awayTname": "Chelsea",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8", 
 "sfour": "China,HD,",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp1-360.m3u8",
 "six": "China,SD,"
 },
 {
@@ -42,11 +42,11 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Genoa.png",
 "awayTname": "Genoa",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?user_session_id=3c4faddd2456ab4807f6eee281e25d39&auth_key=1673570160-0-0-cbd41fcd5bb850fd986ff6794381ecd0&edge_slice=true&sub_m3u8=true",
 "sthree":"Bein,FHD,", 
 "sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
+"sdone": "Soco,FHD,https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?user_session_id=3c4faddd2456ab4807f6eee281e25d39&auth_key=1673570160-0-0-cbd41fcd5bb850fd986ff6794381ecd0&edge_slice=true&sub_m3u8=true",
+"sdtwo": "Soco,SD,https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?user_session_id=3c4faddd2456ab4807f6eee281e25d39&auth_key=1673570160-0-0-cbd41fcd5bb850fd986ff6794381ecd0&edge_slice=true&sub_m3u8=true",
 "five": "Bein,SD,",
 "six": "China,SD,"
 },
