@@ -1,5 +1,22 @@
 [
 {
+"leaguename": " Coppa Italia ",
+"hometeamImg": "https://mygoaltv.xyz//team/Fiorentina.png",
+"homeTname": "Fiorentina",
+"time": "11:30 PM",
+"day": "2023-01-12",
+"awayteamImg": "https://mygoaltv.xyz//team/Sampdoria.png",
+"awayTname": "Sampdoria",
+"golink": "Auto,FHD,",
+"stwo": "Soco,HD,",
+"sthree":"Bein,FHD,", 
+"sfour": "China,HD,",
+"sdone": "Soco,FHD,",
+"sdtwo": "Soco,SD,",
+"five": "Bein,SD,",
+"six": "China,SD,"
+},
+{
 "leaguename": " Super Cup ",
 "hometeamImg": "https://mygoaltv.xyz//team/betis.png",
 "homeTname": "Betis",
