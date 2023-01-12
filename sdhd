@@ -34,23 +34,6 @@
 "six": "Auto,HD,"
 },
 {
-"leaguename": " KNVB Beker ",
-"hometeamImg": "https://mygoaltv.xyz//team/Feyenoord.gif",
-"homeTname": "Feyenoord",
-"time": "02:30 AM",
-"day": "2023-01-13",
-"awayteamImg": "https://mygoaltv.xyz//team/Zwolle.gif",
-"awayTname": "Zwolle",
-"golink": "Auto,HD,",
-"stwo": "Auto,HD,",
-"sthree": "Auto,HD,",
-"sfour": "Auto,HD,",
-"sdone": "Auto,HD,",
-"sdtwo": "Auto,HD,",
-"five": "Auto,HD,",
-"six": "Auto,HD,"
-},
-{
 "leaguename": " Coppa Italia ",
 "hometeamImg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "homeTname": "AS Roma",
