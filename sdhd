@@ -7,14 +7,14 @@
 "day": "2023-01-12",
 "awayteamImg": "https://mygoaltv.xyz//team/Sampdoria.png",
 "awayTname": "Sampdoria",
-"golink": "Auto,FHD,",
+"golink": "Auto,FHD,https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1673555832-0-0-d20164fffcd277d94fe32d046daafffb",
 "stwo": "Soco,HD,",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-494765.m3u8?auth_key=1673555532-0-0-129109c74c9794fd656f9f714817ecce",
 "sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-121272.m3u8",
 "five": "Bein,SD,",
-"six": "China,SD,"
+"six": "China,SD,https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1673555532-0-0-62f08c8c0357a48964a9deee4f0122cd"
 },
 {
 "leaguename": " Super Cup ",
