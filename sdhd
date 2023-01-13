@@ -27,11 +27,11 @@
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
 "sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8", 
-"sfour": "China,HD,https://obevcimanyd179314182.thapcam.link/live/may021FHD/chunklist.m3u8",
+"sfour": "China,HD,",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
 "five": "Bein,SD,https://lb.buy-global.store/live/lb555/bs1-360.m3u8",
-"six": "China,SD,https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"six": "China,SD,https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8"
 },
 {
 "leaguename": " Premier League ",
@@ -42,12 +42,12 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
 "awayTname": "Leeds",
 "golink": "Auto,FHD,",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,http://server.sibfungold.info:8080/live/bagio19821/zkdziOCpL1zbagio19821/49685.ts",
 "sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8", 
 "sfour": "China,HD,",
-"sdone": "Soco,FHD,",
-"sdtwo": "Soco,SD,",
+"sdone": "Soco,FHD,http://server.sibfungold.info:8080/live/bagio19821/zkdziOCpL1zbagio19821/49685.ts",
+"sdtwo": "Soco,SD,http://server.sibfungold.info:8080/live/bagio19821/zkdziOCpL1zbagio19821/49685.ts",
 "five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp1-360.m3u8",
-"six": "China,SD,https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8"
+"six": "China,https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
