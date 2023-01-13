@@ -1,22 +1,5 @@
 [
 {
-"leaguename": " AFF Cup ",
-"hometeamImg": "https://mygoaltv.xyz//team/vietnam_svg.png",
-"homeTname": "Vietnam",
-"time": "live ",
-"day": "2023-01-13",
-"awayteamImg": "https://mygoaltv.xyz//team/Thailand_flag.png",
-"awayTname": "Thailand",
-"golink": "Auto,FHD,http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8",
-"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=f8ec96be29bd4f0d7a88dc4302543eb0&txTime=63c19c98",
-"sthree":"Bein,FHD,https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=f8ec96be29bd4f0d7a88dc4302543eb0&txTime=63c19c98",
-"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=f8ec96be29bd4f0d7a88dc4302543eb0&txTime=63c19c98",
-"five": "Bein,SD,https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-"six": "China,SD,"
-},
-{
 "leaguename": "  Serie A ",
 "hometeamImg": "https://mygoaltv.xyz//team/napoli.png",
 "homeTname": "Napoli",
