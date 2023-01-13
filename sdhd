@@ -7,7 +7,7 @@
 "day": "2023-01-13",
 "awayteamImg": "https://mygoaltv.xyz//team/Thailand_flag.png",
 "awayTname": "Thailand",
-"golink": "Auto,FHD,",
+"golink": "Auto,FHD,http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8",
 "stwo": "Soco,HD,",
 "sthree":"Bein,FHD,", 
 "sfour": "China,HD,",
@@ -43,11 +43,11 @@
 "awayTname": "Villarreal",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bs1-720.m3u8", 
 "sfour": "China,HD,",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bs1-360.m3u8",
 "six": "China,SD,"
 },
 {
@@ -60,11 +60,11 @@
 "awayTname": "Leeds",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp1-720.m3u8", 
 "sfour": "China,HD,",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp1-360.m3u8",
 "six": "China,SD,"
 },
 {
