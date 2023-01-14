@@ -12,11 +12,11 @@
 "awayteamImg": "https://mygoaltv.xyz//team/Verona.png",
 "awayTname": "Hellas Verona",
 "golink": "Auto,HD,",
-"stwo": "Auto,HD,",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-201986.m3u8",
 "sthree": "Auto,HD,",
-"sfour": "Auto,HD,",
+"sfour": "Soco,FHD,https://sports01.livnvess.com/live/stream-201986.m3u8",
 "sdone": "Auto,HD,",
-"sdtwo": "Auto,HD,",
+"sdtwo": "Socoo,SD,https://sports01.livnvess.com/live/stream-201986.m3u8",
 "five": "Auto,HD,",
 "six": "Auto,HD,"
 }
