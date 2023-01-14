@@ -1,23 +1,6 @@
 [
 {
 "leaguename": " Premier League ",
-"hometeamImg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"homeTname": "Manchester United",
-"time": "live ",
-"day": "2023-01-14",
-"awayteamImg": "https://mygoaltv.xyz//team/manchestercity.png",
-"awayTname": "Manchester City",
-"golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-167414.flv?txSecret=bc7634b10434bda5d1218799c92d7f89&txTime=63c2ec74",
-"sthree":"Eng,FHD,https://yrfhnbcxsqpclwe.s3.amazonaws.com/TNT2_1280x720_3300k.m3u8", 
-"sfour": "China,HD,https://pull.dxzxcn.com/live/360ba_stream_646912_2.flv?txSecret=3cd0ce6cb45f705b71aee1ea7f6facaa&txTime=63C3EB65",
-"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=1e06f4b4d0ffadf316f1d0619ff0aaff&txTime=63c2ecb0",
-"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-167414.flv?txSecret=bc7634b10434bda5d1218799c92d7f89&txTime=63c2ec74",
-"five": "Eng,SD,",
-"six": "Vietnam,SD,https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"leaguename": " Premier League ",
 "hometeamImg": "https://mygoaltv.xyz//team/Brighton.gif",
 "homeTname": "Brighton",
 "time": "09:30 PM",
@@ -60,11 +43,11 @@
 "awayTname": "Leicester City",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
+"sthree":"Bein,FHD,https://lb.buy-global.store/live/lb555/bp3-720.m3u8", 
 "sfour": "China,HD,",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"five": "Bein,SD,https://lb.buy-global.store/live/lb555/bp3-360.m3u8",
 "six": "China,SD,"
 },
 {
