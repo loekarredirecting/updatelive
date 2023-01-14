@@ -26,7 +26,7 @@
 "awayTname": "Southampton",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=6bbdbcd8aaacaa8747999aca8561c158&edge_slice=true&auth_key=1673728320-0-0-26a67f4623e4a2f1b403f1a4801fac44&sub_m3u8=true",
-"sthree":"Bein,FHD,https://pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1673728740-0-0-ae418dafd590b9c40943a12ce85581c2", 
+"sthree":"Bein,FHD,", 
 "sfour": "China,HD,https://standard-pull.qcllh.com/sm/10021_831947_lhd.flv?auth_key=1673725507-0-0-b86637044c2c5a0e48582b46085cc90c",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
