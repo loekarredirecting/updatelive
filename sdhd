@@ -54,18 +54,18 @@
 "leaguename": " Ligue 1 ",
 "hometeamImg": "https://mygoaltv.xyz//team/monaco.png",
 "homeTname": "Monaco",
-"time": "10:35 PM",
+"time": "live ",
 "day": "2023-01-15",
 "awayteamImg": "https://mygoaltv.xyz//team/Ajaccio.png",
 "awayTname": "Ajaccio",
 "golink": "Auto,FHD,",
 "stwo": "Soco,HD,",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
+"sfour": "China,HD,https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673820050-0-0-ea5cc8b7a2b757fa62dddf2e61646183",
 "sdone": "Soco,FHD,",
 "sdtwo": "Soco,SD,",
 "five": "Bein,SD,",
-"six": "China,SD,"
+"six": "China,SD,https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1673820050-0-0-ea5cc8b7a2b757fa62dddf2e61646183"
 },
 {
 "leaguename": " Premier League ",
