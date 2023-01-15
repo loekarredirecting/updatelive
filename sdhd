@@ -92,13 +92,30 @@
 "day": "2023-01-15",
 "awayteamImg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "awayTname": "Fiorentina",
-"golink": "Auto,HD,",
-"stwo": "Auto,HD,",
-"sthree": "Auto,HD,",
-"sfour": "Auto,HD,",
-"sdone": "Auto,HD,",
-"sdtwo": "Auto,HD,",
-"five": "Auto,HD,",
-"six": "Auto,HD,"
+"golink": "Auto,FHD,",
+"stwo": "Soco,HD,",
+"sthree":"Bein,FHD,", 
+"sfour": "China,HD,",
+"sdone": "Soco,FHD,",
+"sdtwo": "Soco,SD,",
+"five": "Bein,SD,",
+"six": "China,SD,"
+},
+{
+"leaguename": " Ligue 1 ",
+"hometeamImg": "https://mygoaltv.xyz//team/rennes.png",
+"homeTname": "Rennes",
+"time": "02:15 AM",
+"day": "2023-01-15",
+"awayteamImg": "https://mygoaltv.xyz//team/psg.png",
+"awayTname": "Paris Saint-Germain",
+"golink": "Auto,FHD,",
+"stwo": "Soco,HD,",
+"sthree":"Bein,FHD,", 
+"sfour": "China,HD,",
+"sdone": "Soco,FHD,",
+"sdtwo": "Soco,SD,",
+"five": "Bein,SD,",
+"six": "China,SD,"
 }
 ]
