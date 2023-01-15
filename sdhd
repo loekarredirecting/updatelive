@@ -1,22 +1,5 @@
 [
 {
-"leaguename": " La Liga ",
-"hometeamImg": "https://mygoaltv.xyz//team/Almeria.png",
-"homeTname": "Almeria",
-"time": "live ",
-"day": "2023-01-15",
-"awayteamImg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
-"awayTname": "Atletico Madrid",
-"golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
-"stwo": "Soco,HD,",
-"sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
-"sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=fa78e2bcc3e82e58aac985313a8e59ef&txTime=63c46af5",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
-"six": "China,SD,"
-},
-{
 "leaguename": " Ligue 1 ",
 "hometeamImg": "https://mygoaltv.xyz//team/monaco.png",
 "homeTname": "Monaco",
