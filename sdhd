@@ -25,12 +25,12 @@
 "awayteamImg": "https://mygoaltv.xyz//team/fulham.png",
 "awayTname": "Fulham",
 "golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-114959.m3u8",
 "sthree":"Bein,FHD,", 
-"sfour": "China,HD,",
+"sfour": "China,HD,https://yytcpull.gdsth.com/live/stream-551899.m3u8",
 "sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=3365c4f86e1c627392cf17e2da7f39d8&txTime=63c454b1",
-"sdtwo": "Soco,SD,",
-"five": "Bein,SD,",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-168740.m3u8",
+"five": "China,SD,https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret%3Dfc770883865c26713ee58ace57d82313%26txTime%3D63c551c6",
 "six": "China,SD,https://standard-pull.qcllh.com/sm/10021_920661_lhd.flv?auth_key=1673876206-0-0-6439fce46cb211f32288822380b7fe7f"
 },
 {
