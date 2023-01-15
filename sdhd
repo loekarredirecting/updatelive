@@ -42,11 +42,11 @@
 "awayteamImg": "https://mygoaltv.xyz//team/arsenal.png",
 "awayTname": "Arsenal",
 "golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-"stwo": "Soco,HD,",
+"stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-114959.m3u8",
 "sthree":"Bein,FHD,http://192.248.160.67:8080/bein_p_1_fhd/index.m3u8", 
 "sfour": "China,HD,https://yytcpull.gdsth.com/live/stream-551899.m3u8",
 "sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=76852f1cbbdd8a49f46e9492a7e7fdf0&txTime=63c479b9",
-"sdtwo": "Soco,SD,",
+"sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-201986.m3u8",
 "five": "Bein,SD,http://192.248.160.67:8080/bein_p_1_sd/index.m3u8",
 "six": "China,SD,https://yytcpull.gdsth.com/live/stream-551899.m3u8?txSecret%3Dfc770883865c26713ee58ace57d82313%26txTime%3D63c551c6"
 },
