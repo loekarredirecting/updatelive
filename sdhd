@@ -10,10 +10,10 @@
 "golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
 "stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret%3Dcef34d9b61941263e6b80fae88f88c4b%26txTime%3D63c455a1",
 "sthree":"Eng,FHD,https://weakdhsyrt.azureedge.net/live/usa/chunks.m3u8", 
-"sfour": "China,HD,",
+"sfour": "Bein,FHD,http://n1.yacinelivetv.com/live/6161949878/index.m3u8?t=fbzpRvdFKJzxnBSCORZLPQ&e=1673797846",
 "sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=cb19cffce7c944a8e172088807029968&txTime=63c4548a",
 "sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-147801.m3u8",
-"five": "Bein,SD,",
+"five": "Bein,SD,http://n2.yacinelivetv.com/live/1222338888/index.m3u8?t=zjnxWHXsr5D3l3MJa_-Zlg&e=1673797719",
 "six": "China,SD,https://standard-pull.qcllh.com/sm/10021_428459_lhd.flv?auth_key=1673875931-0-0-2f943aa9e0280ed8f24675b1afca09bd"
 },
 {
@@ -26,7 +26,7 @@
 "awayTname": "Fulham",
 "golink": "Auto,FHD,https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "stwo": "Soco,HD,https://sports01.livnvess.com/live/stream-114959.m3u8",
-"sthree":"Bein,FHD,", 
+"sthree":"Bein,FHD,http://n2.yacinelivetv.com/live/61616000/index.m3u8?t=VFuk09Kcw6fm_yt_SJaTSQ&e=1673797447", 
 "sfour": "China,HD,https://yytcpull.gdsth.com/live/stream-551899.m3u8",
 "sdone": "Soco,FHD,https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=3365c4f86e1c627392cf17e2da7f39d8&txTime=63c454b1",
 "sdtwo": "Soco,SD,https://sports01.livnvess.com/live/stream-168740.m3u8",
